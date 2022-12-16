@@ -1,0 +1,68 @@
+body{
+   
+    background-image: linear-gradient(to left bottom, #e590c1, #d98bbe, #cd86bb, #c081b8, #b47cb4, #b482b7, #b488ba, #b48ebc, #c0a0c7, #ccb3d2, #d8c5dc, #e4d8e7);
+}
+h1.titulo{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+	font-size: 24px;
+	font-weight: 200;
+	font-weight: 300;
+	color:blank
+	padding: 100px 0 0 0;
+	text-transform: uppercase;
+	text-shadow: 0 0 1px rgba(0, 0, 0, 0.1);
+}
+h2{
+    text-align: center;
+	margin-top: 30px;
+	font-size: 30px;
+    color: #fceaf9;
+}
+iframe{
+    width: 80%;
+    height: 90vh;
+}
+table{
+    border-color: rgba(243, 10, 193, 0.548);
+    border-width: 5px;
+    border-style:ridge;
+    background-color:rgb(236, 238, 119);
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;	
+	width: 25cm;
+    color:#36c7eb;
+}
+
+thead{
+    background-color: rgb(178, 105, 247);
+    font-weight: bolder;
+    text-shadow: 1px 1px 1px rgb(245, 110, 166);
+}
+
+h1{
+    text-shadow: 2px 2px 8px #36c7eb;
+    text-align: center;
+    letter-spacing: 3px;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+
+tbody{
+    background-color: blueviolet;
+    color:rgb(253, 244, 245);
+}
+
+tbody tr:nth-child(odd){
+    background-color: rgb(241, 167, 213);
+}
+
+tbody tr:nth-child(even){
+    background-color: rgba(128, 182, 204, 0.986);
+}
+
+p{
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	color:#e4d8e7;
+	font-size: 28px;
+
+}
